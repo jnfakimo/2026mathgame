@@ -1,7 +1,7 @@
 # 2026mathgame — 我的班級工具總專案
 
 ## 對話開始時請先讀
-進度與最近更動都在 Obsidian：`G:\我的雲端硬碟\2026mathgame\工作筆記.md`
+進度與最近更動都在 Obsidian：`G:\我的雲端硬碟\2ndbrain\2026mathgame\工作筆記.md`
 
 ## 工作模式
 - **加新工具**：對 Claude 說「我想做一個 XXX 工具」→ Claude 會建 `tools/<工具名>/` 子資料夾、引導我跟著 EP10 影片做
@@ -11,7 +11,7 @@
 ## 工作桌 + 三個家
 - 📋 GDrive 工作桌：`G:\我的雲端硬碟\Claude\2026mathgame\`（自動跨電腦同步）
 - 🐙 GitHub repo：`jnfakimo/2026mathgame`（公開，網頁的家）
-- 📘 Obsidian 駕駛艙：`G:\我的雲端硬碟\2026mathgame\工作筆記.md`（想法的家）
+- 📘 Obsidian 駕駛艙：`G:\我的雲端硬碟\2ndbrain\2026mathgame\工作筆記.md`（想法的家）
 
 ## 工具清單
 （之後加新工具時會自動更新）
